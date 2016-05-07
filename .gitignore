@@ -1,0 +1,5 @@
+.idea
+revolut-test.iml
+target
+dependency-reduced-pom.xml
+derby.log
